@@ -78,7 +78,7 @@ blockquote {
 .sidebar img {
     width: 50%;
     height: auto;
-    border-radius: 45%;
+    border-radius: 30%;
 }
 
 /*bringing the main header close to the <p> element>*/
